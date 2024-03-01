@@ -1,7 +1,7 @@
 ﻿# Alien Demand Generator
-###Summary
+### Summary
   Creates a message from invading aliens laying out their demand the humans must meet or else...
-###Code
+### Code
   Randomly pulls from 5 different arrays each with their own pool of strings and combines them into one message. The pools are:
   1. Greeting
   2. Alien Name
